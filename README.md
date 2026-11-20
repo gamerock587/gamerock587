@@ -30,6 +30,10 @@ I enjoy taking a real problem from its first sketch through the interface, APIs,
 
 I'm preparing selected tools for public use: reviewing the code, separating private data, improving setup instructions and documenting what has actually been tested. Public projects will appear here as each release is ready.
 
+| Project | What it does |
+|---|---|
+| [Daily ToDo Offline](https://github.com/gamerock587/daily-todo-offline) | Offline desktop tasks, manual clipboard snippets and local JSON backups. |
+
 My current open-source focus includes an offline daily task widget, local AI tools, After Effects automation, LAN audio and consent-based remote support.
 
 ## Let's build something useful
