@@ -33,6 +33,7 @@ I'm preparing selected tools for public use: reviewing the code, separating priv
 | Project | What it does |
 |---|---|
 | [Daily ToDo Offline](https://github.com/gamerock587/daily-todo-offline) | Offline desktop tasks, manual clipboard snippets and local JSON backups. |
+| [after-effects-tunnel](https://github.com/gamerock587/after-effects-tunnel) | Local CLI and CEP bridge for native editable Adobe After Effects automation. |
 
 My current open-source focus includes an offline daily task widget, local AI tools, After Effects automation, LAN audio and consent-based remote support.
 
