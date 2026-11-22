@@ -26,6 +26,21 @@ I enjoy taking a real problem from its first sketch through the interface, APIs,
 | Delivery & maintenance | Git, deployment, hosting, DNS, app releases and troubleshooting |
 | Security research | CTFs, vulnerability research and authorized testing |
 
+## Selected application work
+
+A selection of personal and client/team projects I have worked on. Store links demonstrate the applications; their commercial source code is not published here.
+
+| Application | Engineering work |
+|---|---|
+| [Nasim City](https://play.google.com/store/apps/details?id=com.invnty.nasim) | Flutter mobile and Windows interfaces with Laravel APIs for residential-community services, resident/staff workflows, visitors, payments and notifications. |
+| [Jedar CPM](https://play.google.com/store/apps/details?id=com.invnty.cpm) | Construction project and task management across mobile and Windows: plans, progress records, team chat and attendance workflows. |
+| [Daqayiq](https://play.google.com/store/apps/details?id=com.invnty.dqaiq) | Flutter and Laravel ordering/delivery workflows, including cart operations, order tracking and delivery coordination. |
+| [Seen](https://play.google.com/store/apps/details?id=com.invnty.seencenter) | Shopping and delivery application with cart synchronization, order workflows and customer support. |
+| [CorePadel](https://play.google.com/store/apps/details?id=com.corepadeliq.core_padel) | Flutter court-booking application with payment integration, Arabic/English UI and push notifications. |
+| [ACschools](https://play.google.com/store/apps/details?id=com.invnty.schoolsystemmobile) | School-management software spanning desktop administration and mobile experiences, with tuition, payments, attendance and reporting. |
+
+[Android apps by invntydev](https://play.google.com/store/apps/dev?id=6962652453689249997&hl=en) · [Personal platform](https://invnty.com)
+
 ## Building in public
 
 I'm preparing selected tools for public use: reviewing the code, separating private data, improving setup instructions and documenting what has actually been tested. Public projects will appear here as each release is ready.
