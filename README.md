@@ -48,6 +48,7 @@ I'm preparing selected tools for public use: reviewing the code, separating priv
 | Project | What it does |
 |---|---|
 | [Daily ToDo Offline](https://github.com/gamerock587/daily-todo-offline) | Offline desktop tasks, manual clipboard snippets and local JSON backups. |
+| [airlink](https://github.com/gamerock587/airlink) | Stream Windows system audio to Android over a trusted LAN. C# server and Java receiver. |
 | [click-type-recorder](https://github.com/gamerock587/click-type-recorder) | Windows click and keyboard workflow recorder with repeat playback and optional Telegram status. |
 | [whatsapp-group-explorer](https://github.com/gamerock587/whatsapp-group-explorer) | Chrome extension for WhatsApp groups, authorized roster comparisons and explicit member actions. |
 | [after-effects-tunnel](https://github.com/gamerock587/after-effects-tunnel) | Local CLI and CEP bridge for native editable Adobe After Effects automation. |
