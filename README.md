@@ -48,6 +48,7 @@ I'm preparing selected tools for public use: reviewing the code, separating priv
 | Project | What it does |
 |---|---|
 | [Daily ToDo Offline](https://github.com/gamerock587/daily-todo-offline) | Offline desktop tasks, manual clipboard snippets and local JSON backups. |
+| [support-bridge](https://github.com/gamerock587/support-bridge) | Consent-based authenticated Windows remote support bridge. |
 | [agent-24](https://github.com/gamerock587/agent-24) | Local AI-assisted security assessment workspace with evidence and bounded scope. |
 | [liquidpilot](https://github.com/gamerock587/liquidpilot) | Experimental local AI browser agent with an explicitly paired Chrome tab. |
 | [airlink](https://github.com/gamerock587/airlink) | Stream Windows system audio to Android over a trusted LAN. C# server and Java receiver. |
